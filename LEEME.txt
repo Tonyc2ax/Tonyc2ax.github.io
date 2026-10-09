@@ -1,0 +1,8 @@
+PORTAFOLIO AUTOMÁTICO — Tonyc2ax
+
+Sube index.html al repositorio Tonyc2ax.github.io.
+Activa Settings > Pages > Deploy from a branch > main > / (root).
+Tu dirección será https://tonyc2ax.github.io/ cuando publiques.
+
+Los repositorios públicos se consultan automáticamente al abrir o recargar la página. El botón Actualizar proyectos vuelve a consultarlos. No necesitas editar el HTML al crear un repositorio.
+Las descripciones y el lenguaje provienen de GitHub. No muestra repositorios privados. Requiere conexión a internet; si GitHub limita las consultas, usa el enlace al perfil o vuelve a intentarlo más tarde.
